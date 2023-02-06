@@ -1,0 +1,7 @@
+.pytest_cache
+etc
+Include
+Lib
+Scripts
+share
+pyvenv.cfg
